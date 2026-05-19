@@ -23,3 +23,7 @@ A professional vulnerability scanner that detects security weaknesses in network
 ---
 
 ## 💻 Tech Stack
+Frontend: HTML5, CSS3, JavaScript
+Backend: Python Flask
+API: REST Architecture
+Deploy: Render / PythonAnywhere
